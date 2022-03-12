@@ -1,0 +1,19 @@
+C:\Users\RONNIEMARCOSRILLO\Desktop\Fatec 2022\ED\Estatica\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+C:\Users\RONNIEMARCOSRILLO\Desktop\Fatec 2022\ED\Estatica\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+C:\Users\RONNIEMARCOSRILLO\Desktop\Fatec 2022\ED\Estatica\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+C:\Users\RONNIEMARCOSRILLO\Desktop\Fatec 2022\ED\Estatica\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csprojResolveAssemblyReference.cache
+C:\Users\RONNIEMARCOSRILLO\Desktop\Fatec 2022\ED\Estatica\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+C:\Users\RONNIEMARCOSRILLO\Desktop\Fatec 2022\ED\Estatica\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb
+C:\Users\fatec\Desktop\E.D\Pilha de Dados\Project\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+C:\Users\fatec\Desktop\E.D\Pilha de Dados\Project\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+C:\Users\fatec\Desktop\E.D\Pilha de Dados\Project\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb
+C:\Users\fatec\Desktop\E.D\Pilha de Dados\Project\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+C:\Users\fatec\Desktop\E.D\Pilha de Dados\Project\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+C:\Users\fatec\Desktop\E.D\Pilha de Dados\Project\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csprojResolveAssemblyReference.cache
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csprojAssemblyReference.cache
+D:\Faculdade\Estrutura de dados\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csproj.CoreCompileInputs.cache
